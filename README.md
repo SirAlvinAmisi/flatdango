@@ -21,33 +21,8 @@ Flatdango is a web application for purchasing movie tickets from Flatiron Movie 
    ```
 
 3. Create a `db.json` file in the project root with the provided movie data:
-   ```json
-   {
-     "films": [
-       {
-         "id": "1",
-         "title": "The Giant Gila Monster",
-         "runtime": "108",
-         "capacity": 30,
-         "showtime": "04:00PM",
-         "tickets_sold": 27,
-         "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-         "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg"
-       },
-       {
-         "id": "2",
-         "title": "Manos: The Hands Of Fate",
-         "runtime": "118",
-         "capacity": 50,
-         "showtime": "06:45PM",
-         "tickets_sold": 44,
-         "description": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
-         "poster": "https://www.gstatic.com/tv/thumb/v22vodart/47781/p47781_v_v8_ac.jpg"
-       },
-       // Include the rest of the movie data as provided
-     ]
-   }
-   ```
+  
+   For the complete movie data, please refer to the [db.json](db.json) file in the project directory.
 
 4. Run the JSON server:
    ```bash
@@ -80,33 +55,12 @@ The JSON server should now be running at `http://localhost:3000`.
 This project is licensed under the MIT License.
 
 ### MIT License
-```
-MIT License
-
-Copyright (c) 2024 SirAlvinAmisi
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+For the full text of the MIT License, please see [LICENSE](LICENSE).
 
 ## Contact
 For any inquiries or issues, please contact:
 - **GitHub**: [SirAlvinAmisi](https://github.com/SirAlvinAmisi)
 - **Email**: alvomakaya@gmail.com
+- **LinkedIn**: [Alvin Amisi](https://www.linkedin.com/in/alvin-amisi-3aaba9109/)
 
 ---
