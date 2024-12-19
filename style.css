@@ -84,10 +84,10 @@ ul#films li.sold-out {
 }
 
 #movie-details img {
-  width: 25%; /* Reduced size from 100% to 80% */
+  width: 25%; 
   border-radius: 8px;
   margin-bottom: 15px;
-  object-fit: cover; /* Ensures the image maintains aspect ratio */
+  object-fit: cover; 
 }
 
 #movie-details h2 {
